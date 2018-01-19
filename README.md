@@ -6,4 +6,4 @@ I will update it when i get more inspiration
 For the moment the script collects the ratings from the internet movie data Base and plots a chronologic fresco with prefered and less-appreciated moments of the series.
 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/aylliote/series-chart/master/exemple_fresco.jpg)
